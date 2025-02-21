@@ -41,4 +41,4 @@ I love walking and exploring nature in my free time. It helps me clear my mind a
 
 ---
 
-⭐️ From [Edward Phyo](https://github.com/edward)
+⭐️ From [Edward Phyo](https://github.com/Phyo-Alpha)
