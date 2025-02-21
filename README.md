@@ -23,10 +23,6 @@ I'm a passionate software developer with a love for building innovative and effi
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-[![Edward Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Get in Touch
 
 - LinkedIn: [Edward Phyo](https://www.linkedin.com/in/edward-phyo/)
