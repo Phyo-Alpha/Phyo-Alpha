@@ -40,7 +40,6 @@ I'm a passionate software developer with a love for building innovative and effi
 - Advanced React Patterns
 - Cloud Architecture with AWS
 
-[![Edward Phyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Fun Fact
 
