@@ -1,8 +1,6 @@
 # Hi there, I'm Edward Phyo 👋
 
-## 🚀 About Me
-
-I'm a passionate software developer with a love for building innovative and efficient solutions. I enjoy working on challenging problems and continuously learning new technologies to improve my skills. My goal is to contribute to meaningful projects that make a positive impact.
+I'm currently working in [Studio20](https://studio20.my)
 
 ## 🛠️ Skills
 
